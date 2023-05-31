@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    background-color: #0d3c6360;
+}
+#myform{
+    background-color: #e46511bb;
+    font-family: 'Alkatra', cursive;
+}
+li{
+    list-style: none;
+}
